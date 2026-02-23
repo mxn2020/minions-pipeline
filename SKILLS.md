@@ -1,6 +1,12 @@
 ---
 name: minions-pipeline
+id: OC-0142
+version: 1.0.0
 description: Funnel stage tracking across the full job search lifecycle
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-pipeline — Agent Skills
