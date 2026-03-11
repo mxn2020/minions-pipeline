@@ -1,0 +1,15 @@
+name: minions-pipeline-workspace
+project_scope: main
+project_type: monorepo
+description: Funnel stage tracking across the full job search lifecycle
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-pipeline"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, pipeline]
+notes: null
+id: d516ff30-f5de-4fa7-bbed-74debffcac22

@@ -1,0 +1,8 @@
+name: "@minions-pipeline/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-pipeline-workspace
+description: Funnel stage tracking across the full job search lifecycle
+priority: high
+deploy_url: null
+tags: null

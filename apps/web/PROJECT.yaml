@@ -1,0 +1,8 @@
+name: minions-pipeline-web
+project_scope: child
+child_type: web-app
+parent_project: minions-pipeline-workspace
+description: Standard compliance definition for minions-pipeline-web
+priority: high
+deploy_url: null
+tags: null
