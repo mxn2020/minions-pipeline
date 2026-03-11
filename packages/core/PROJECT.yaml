@@ -6,3 +6,4 @@ description: Funnel stage tracking across the full job search lifecycle
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
