@@ -1,6 +1,6 @@
 {
   "name": "@minions-pipeline/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-pipeline — Funnel stage tracking across the full job search lifecycle",
   "license": "MIT",
   "repository": {
